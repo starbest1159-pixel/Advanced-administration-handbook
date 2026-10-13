@@ -1,0 +1,14 @@
+<div class="form-signin w-100 m-auto">
+  <form>
+    <h1 class="h3 mb-3 fw-normal"><center>หน้า Login HTML</center></h1>
+    <div class="form-floating">
+      <input type="text" class="form-control" placeholder="ชื่อผู้เข้าใช้งาน">
+      <label>ชื่อผู้เข้าใช้งาน</label>
+    </div>
+    <div class="form-floating">
+      <input type="password" class="form-control" placeholder="รหัสผ่าน">
+      <label>รหัสผ่าน</label>
+    </div>
+    <button class="w-100 btn btn-lg btn-primary" type="submit">เข้าสู่ระบบ</button>
+  </form>
+</div>
